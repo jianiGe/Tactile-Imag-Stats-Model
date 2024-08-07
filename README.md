@@ -6,10 +6,10 @@ The project involves applying various statistical modeling methods to a subset o
 - ***Connectivity analysis/DCM-first-level*** contains the scripts for specifying/estimating DCM and conducting Bayesian Model Selection
 
 <br>Coding references
-Repo for the original analysis: https://github.com/Neurocomputation-and-Neuroimaging-Unit/Tactile_Imagery_Content_in_SI
-Hebart et al. (2015). The Decoding Toolbox (TDT): a versatile software package for multivariate analyses of functional imaging data: https://doi.org/10.3389/fninf.2014.00088
-Time series extraction: https://en.wikibooks.org/wiki/SPM/Timeseries_extraction
-SPM run concatenation: https://en.wikibooks.org/wiki/SPM/Concatenation
-DCM-PEB sample script: https://github.com/pzeidman/dcm-peb-example
+Repo for the original analysis: https://github.com/Neurocomputation-and-Neuroimaging-Unit/Tactile_Imagery_Content_in_SI<br>
+Hebart et al. (2015). The Decoding Toolbox (TDT): a versatile software package for multivariate analyses of functional imaging data: https://doi.org/10.3389/fninf.2014.00088<br>
+Time series extraction: https://en.wikibooks.org/wiki/SPM/Timeseries_extraction<br>
+SPM run concatenation: https://en.wikibooks.org/wiki/SPM/Concatenation<br>
+DCM-PEB sample script: https://github.com/pzeidman/dcm-peb-example<br>
 
 
