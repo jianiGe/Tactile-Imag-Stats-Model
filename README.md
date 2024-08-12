@@ -1,6 +1,6 @@
 # Tactile-Imag-Stats-Model
-Repository for the final project for Probability & Statistical Modeling (Spring 2024)
-The project involves applying various statistical modeling methods to a subset of the fMRI data for tactile stimulation and imagery collected by [Nierhaus et al. (2023)](https://www.eneuro.org/content/10/6/ENEURO.0408-22.2023).
+Repository for the final project for Probabilistic & Statistical Modeling (Spring 2024)<br>
+The project applies various statistical modeling methods to a subset of the fMRI data for tactile stimulation and imagery collected by [Nierhaus et al. (2023)](https://www.eneuro.org/content/10/6/ENEURO.0408-22.2023).
 - ***Decoding*** contains the script for applying Support Vector Machine classification via the [Decoding Toolbox](https://sites.google.com/site/tdtdecodingtoolbox/)
 - ***Connectivity analysis/GLM*** contains the scripts for specifying/estimating GLM and extracting time series
 - ***Connectivity analysis/DCM-first-level*** contains the scripts for specifying/estimating DCM and conducting Bayesian Model Selection
